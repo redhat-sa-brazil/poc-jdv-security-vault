@@ -1,4 +1,4 @@
-# jdv-security-vault
+# `{{gpas}{repo-name}}`
 
 <div align="left">
     <a href="LICENSE.md">
@@ -6,7 +6,7 @@
     </a>
 </div>
 <div align="left">
-    <a href="https://github.com/redhat-sa-brazil/jdv-security-vault">
-        <img alt="Travis Status" src="https://github.com/redhat-sa-brazil/jdv-security-vault?style=flat-square"/>
+    <a href="https://travis-ci.org/{{gpas}{repo-owner-username}}/{gpas}{repo-name}}">
+        <img alt="Travis Status" src="https://img.shields.io/travis/{{gpas}{repo-owner-username}}/{{gpas}{repo-name}}/master.svg?style=flat-square"/>
     </a>
 </div>
