@@ -1,4 +1,4 @@
-<h1>JDV-SECURITY-VAULT</h1>
+<h1>POC-JDV-SECURITY-VAULT</h1>
 <p>&nbsp;</p>
 <h2>GOAL</h2>
 <p><br />The goal of building this module is to be able to integrate Jboss EAP-based products into a password vault model that is agnostic to the java model. In this scenario the proposed password vault is made available by a provider that delivers the passwords to OAuth2.</p>
